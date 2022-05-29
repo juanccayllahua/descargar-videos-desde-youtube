@@ -1,0 +1,5 @@
+node_modules/
+download/*.mp4 
+out/*.mp3 
+other.js
+helpers/inquirer.js
